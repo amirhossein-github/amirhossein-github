@@ -22,4 +22,4 @@ to manage my projects. I am currently working with **VS Code**
 
 ---
 
-<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhossein-github&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+<a href="https://github.com/amirhossein-github/teacher-khateri"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amirhossein-github&repo=teacher-khateri&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhossein-github&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
