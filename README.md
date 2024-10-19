@@ -34,4 +34,4 @@ to manage my projects. I am currently working with **VS Code**
 - **[🥼 My Personal Testing Processes](https://github.com/amirhossein-github/personal-testing)**&nbsp;&nbsp;&nbsp;This repository is supposed to store all my personal testing process. like "Sudden storage of data" OR "New tests on GitHub itself" OR ... .
 
 ### 🎓 My experience from the courses I took
-- **[<img src="https://avatars.githubusercontent.com/u/161491221?s=200&v=4" width="15px"> Megademy - Javascript](https://github.com/amirhossein-github/experience-course-megademy)****&nbsp;&nbsp;&nbsp;Javascript course of [Megademy](https://megademy.ir/) educational platform taught by [Amir Hossein Khatiri](https://github.com/khateridev).
+- **[<img src="https://avatars.githubusercontent.com/u/161491221?s=200&v=4" width="15px"> Megademy - Javascript](https://github.com/amirhossein-github/experience-course-megademy)**&nbsp;&nbsp;&nbsp;Javascript course of [Megademy](https://megademy.ir/) educational platform taught by [Amir Hossein Khatiri](https://github.com/khateridev).
