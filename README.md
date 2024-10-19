@@ -28,6 +28,10 @@ to manage my projects. I am currently working with **VS Code**
 
 
 ## 🗄️ Repositories
+
 ### 🧔🏻 Personal Use
 - **[⚙️ My Personal Configs ...](https://github.com/amirhossein-github/personal-configuration)**&nbsp;&nbsp;&nbsp;This repository is supposed to store all my personal configuration files. like "tsconfig.json".
 - **[🥼 My Personal Testing Processes](https://github.com/amirhossein-github/personal-testing)**&nbsp;&nbsp;&nbsp;This repository is supposed to store all my personal testing process. like "Sudden storage of data" OR "New tests on GitHub itself" OR ... .
+
+### 🎓 My experience from the courses I took
+- **[<img src="https://avatars.githubusercontent.com/u/161491221?s=200&v=4" width="10px"> Megademy- Javascript](https://github.com/amirhossein-github/experience-course-megademy)**
