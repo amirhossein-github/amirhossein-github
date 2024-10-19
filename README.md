@@ -2,6 +2,7 @@
 
 I am currently taking a JavaScript course and my goal is to be ready to become a back-end developer by the end of the year by finishing NodeJS.
 
+<!-- Story of My Skills -->
 The operating system that I use most of the time is **Linux-Ubuntu**
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></a>
 and I almost know how to work with it, and I was attracted to scripting with **Bash**
@@ -22,4 +23,11 @@ to manage my projects. I am currently working with **VS Code**
 
 ---
 
+<!-- Active Repository -->
 <a href="https://github.com/amirhossein-github/teacher-khateri"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amirhossein-github&repo=teacher-khateri&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhossein-github&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+
+
+## 🗄️ Repositories
+### 🧔🏻 Personal Use
+- **[⚙️ My Personal Configs ...](https://github.com/amirhossein-github/personal-configuration)**&nbsp;&nbsp;&nbsp;This repository is supposed to store all my personal configuration files. like "tsconfig.json".
+- **[🥼 My Personal Testing Processes](https://github.com/amirhossein-github/personal-testing)**&nbsp;&nbsp;&nbsp;This repository is supposed to store all my personal testing process. like "Sudden storage of data" OR "New tests on GitHub itself" OR ... .
